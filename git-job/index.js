@@ -1,0 +1,1 @@
+console.log(`This is the git-job index.js file. Version - 1.0`);
