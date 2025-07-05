@@ -1,1 +1,1 @@
-print("This is the git-job index.js file. Version - 3.0")
+prit("This is the git-job index.js file. Version - 3.0")
